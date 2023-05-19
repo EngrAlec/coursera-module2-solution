@@ -10,7 +10,9 @@
     justify-content: center;
 }
 
-
+.container {
+    width: 90%;
+}
 
 img {
     width: 60px;
@@ -44,10 +46,6 @@ img:hover {
     box-shadow: 0 0 10px rgb(5, 2, 35);
     border-radius: 10px;
 }
-
-
-
-
 
 
 .section1 .card .first-part {
