@@ -137,7 +137,7 @@ img:hover {
 @media (max-width: 767px) {
     .section1 .card {
         width: 80%;
-        height: fit-content;
+        height: auto;
         background-color: #deefdc;
         padding: 20px;
         align-items: center;
